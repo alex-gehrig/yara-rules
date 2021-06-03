@@ -11,4 +11,4 @@ In this repository you can find YARA-rules for the cryptocurrencies Bitcoin
 (BTC) and Monero (XMR) concerning the English respectively German dirctionaries.
 
 More information about YARA can be found here:
-YARA [http://virustotal.github.io/yara/](http://virustotal.github.io/yara/)
+[http://virustotal.github.io/yara/](http://virustotal.github.io/yara/)
