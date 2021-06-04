@@ -1,4 +1,4 @@
-ule wordlist_btc_eng {
+rule wordlist_btc_eng {
     meta:
         description = "Searching for Seeds (English) for BTC"
         author = "Alexander Gehrig"
